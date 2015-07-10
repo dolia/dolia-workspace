@@ -15,6 +15,8 @@
 
 > EXPORT export path=$path:~/.dolia-workspace/bin/　
 
+> lnmp build 
+
 > lnmp up 
 
 访问 http://localhost   即可看到成功页面
