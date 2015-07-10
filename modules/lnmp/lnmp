@@ -1,0 +1,8 @@
+#！/bin/bash
+
+# lnmp development tooll
+
+
+docker-compose -f ~/.dolia-workspace/modules/lnmp/docker-compose.yml  $1 $2 $3 
+
+
